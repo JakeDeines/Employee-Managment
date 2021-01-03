@@ -4,6 +4,8 @@
 
 ## Description
 in this homework I built a solution for managing a company's employees using node, inquirer, and MySQL.
+
+"I created database using mysql workbench and added some options to the prompt. would like to finish this project in the future".
 ## Deployed Website
 
 ## Github Repository URL
