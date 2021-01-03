@@ -1,9 +1,9 @@
 # Employee-Managment
-in this homework
+
 
 
 ## Description
-
+in this homework I built a solution for managing a company's employees using node, inquirer, and MySQL.
 ## Deployed Website
 
 ## Github Repository URL
